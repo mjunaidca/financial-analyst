@@ -4,10 +4,6 @@
 
 A financial analyst project that get finance info from rest api and uses Open AI Assistants API architechture to help end users with financial analysis.
 
-[!Watch YouTube Video]
-[<img src="https://img.youtube.com/vi/C14_ghBhlNw/hqdefault.jpg" width="600" height="300"
-/>](https://www.youtube.com/embed/C14_ghBhlNw)
-
 Seed Idea: 
 - [Building an AI Financial Analyst with the Assistants API](https://www.mlq.ai/ai-financial-analyst-assistants-api/)
 
@@ -24,6 +20,11 @@ Can you compare the financial health of Microsoft and Apple over the last four y
 #### 21 - Financials Comparision And Visual Charts
 
 Evaluate Microsoft vs. Googles's revenue & profitability growth over the past 4 quarters. Visualize the results with one or more charts.
+
+Watch YouTube Video to Understand Code
+
+[<img src="https://img.youtube.com/vi/C14_ghBhlNw/hqdefault.jpg" width="600" height="300"
+/>](https://www.youtube.com/embed/C14_ghBhlNw)
 
 ### - Assistant Functions
 
