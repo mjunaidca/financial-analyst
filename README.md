@@ -4,6 +4,9 @@
 
 A financial analyst project that get finance info from rest api and uses Open AI Assistants API architechture to help end users with financial analysis.
 
+[<img src="https://img.youtube.com/vi/C14_ghBhlNw/hqdefault.jpg" width="600" height="300"
+/>](https://www.youtube.com/embed/C14_ghBhlNw)
+
 Seed Idea: 
 - [Building an AI Financial Analyst with the Assistants API](https://www.mlq.ai/ai-financial-analyst-assistants-api/)
 
