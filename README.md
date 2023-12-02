@@ -4,6 +4,7 @@
 
 A financial analyst project that get finance info from rest api and uses Open AI Assistants API architechture to help end users with financial analysis.
 
+[!Watch YouTube Video]
 [<img src="https://img.youtube.com/vi/C14_ghBhlNw/hqdefault.jpg" width="600" height="300"
 />](https://www.youtube.com/embed/C14_ghBhlNw)
 
