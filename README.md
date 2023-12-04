@@ -39,3 +39,7 @@ Watch YouTube Video to Understand Code
 - get_financial_ratios: Fetches various financial ratios. These ratios, such as the price-to-earnings ratio, current ratio, or liquidity ratio, are crucial for financial analysis and comparative assessments.
 
 - get_financial_growth: Accesses financial growth data. This function probably tracks the growth trends in various financial aspects like revenue growth, profit growth, etc., over time, indicating the entity's growth trajectory.
+
+- ## Like NextJS Requests Architecture we can do parralel data fetching - using concurrent.features python api.
+
+- In pythong 3.12 : https://docs.python.org/3/library/concurrent.futures.html
